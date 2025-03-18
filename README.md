@@ -15,7 +15,7 @@ MySQL
 # Installation
 
 # Étape 1 : Configuration de la base de données
-Créez une base de données nommée gestion_notes.
+Créez une base de données nommée pronote.
 Importez le schéma de la base de données en exécutant le script SQL pronote.sql.
 
 # Étape 2 : Création de l'utilisateur administrateur
